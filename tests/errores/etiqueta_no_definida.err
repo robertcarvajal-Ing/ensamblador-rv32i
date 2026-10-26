@@ -1,0 +1,3 @@
+etiqueta_no_definida.asm:1: error: etiqueta 'nowhere' no definida
+etiqueta_no_definida.asm:2: error: etiqueta 'fin' no definida
+etiqueta_no_definida.asm:3: error: etiqueta 'dato' no definida

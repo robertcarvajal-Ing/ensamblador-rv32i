@@ -1,0 +1,4 @@
+tipo_operando.asm:1: error: se esperaba un inmediato y se encontró 'x3'
+tipo_operando.asm:2: error: se esperaba un registro y se encontró '5'
+tipo_operando.asm:3: error: se esperaba desplazamiento(registro) y se encontró '8'
+tipo_operando.asm:4: error: se esperaba una etiqueta y se encontró '12'

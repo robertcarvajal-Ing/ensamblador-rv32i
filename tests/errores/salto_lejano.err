@@ -1,0 +1,1 @@
+salto_lejano.asm:1: error: destino del salto demasiado lejos: desplazamiento 4404 fuera de rango [-4096, 4094]

@@ -1,0 +1,5 @@
+varios_errores.asm:2: error: inmediato 4096 fuera de rango [-2048, 2047]
+varios_errores.asm:3: error: instrucción inválida 'foo'
+varios_errores.asm:4: error: etiqueta 'nowhere' no definida
+varios_errores.asm:5: error: etiqueta 'main' duplicada
+varios_errores.asm:6: error: desplazamiento 32 fuera de rango [0, 31]
