@@ -1,0 +1,3 @@
+numero_operandos.asm:1: error: 'add' espera 3 operandos (rd, rs1, rs2) y recibió 2
+numero_operandos.asm:2: error: 'addi' espera 3 operandos (rd, rs1, inmediato) y recibió 4
+numero_operandos.asm:3: error: 'ret' espera 0 operandos (sin operandos) y recibió 1

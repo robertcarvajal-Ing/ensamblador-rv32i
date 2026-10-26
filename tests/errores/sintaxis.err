@@ -1,0 +1,6 @@
+sintaxis.asm:1: error: sintaxis incorrecta: operando vacío (revise las comas)
+sintaxis.asm:2: error: sintaxis incorrecta: directiva '.align' no soportada
+sintaxis.asm:3: error: sintaxis incorrecta: .word solo se permite en .data
+sintaxis.asm:4: error: sintaxis incorrecta: '1abc' no es un nombre de etiqueta válido
+sintaxis.asm:6: error: sintaxis incorrecta: la instrucción 'addi' debe ir en .text
+sintaxis.asm:7: error: sintaxis incorrecta: .string espera un texto entre comillas
