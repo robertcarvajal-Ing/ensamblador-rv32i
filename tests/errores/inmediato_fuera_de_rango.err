@@ -1,0 +1,5 @@
+inmediato_fuera_de_rango.asm:1: error: inmediato 4096 fuera de rango [-2048, 2047]
+inmediato_fuera_de_rango.asm:3: error: desplazamiento 32 fuera de rango [0, 31]
+inmediato_fuera_de_rango.asm:4: error: inmediato 1048576 fuera de rango [0, 1048575]
+inmediato_fuera_de_rango.asm:5: error: inmediato 2048 fuera de rango [-2048, 2047]
+inmediato_fuera_de_rango.asm:6: error: inmediato 4294967296 fuera de rango [-2147483648, 4294967295]

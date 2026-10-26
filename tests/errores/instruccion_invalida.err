@@ -1,0 +1,2 @@
+instruccion_invalida.asm:2: error: instrucción inválida 'foo'
+instruccion_invalida.asm:3: error: instrucción inválida 'mul'

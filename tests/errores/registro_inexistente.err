@@ -1,0 +1,2 @@
+registro_inexistente.asm:1: error: registro 'x32' no existe
+registro_inexistente.asm:2: error: registro 't7' no existe
